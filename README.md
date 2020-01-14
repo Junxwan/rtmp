@@ -1,2 +1,2 @@
-# rtmp_server
-一個簡單的rtmp server
+# rtmp
+一個簡單的rtmp server and client
